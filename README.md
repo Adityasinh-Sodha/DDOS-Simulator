@@ -17,10 +17,14 @@
 - No external libraries are required; the script uses Python’s built-in libraries (`socket`, `threading`, `time`, `random`).
 
 ## Execution 
-1. Clone this repo (`git clone https://github.com/Adityasinh-Sodha/DDOS-Simulator.git`)
-2. Run this commands on your terminal
- ```bash  
+1. Run this commands on your terminal
+ ```bash
+     apt install python
+     apt install git
+     git clone https://github.com/Adityasinh-Sodha/DDOS-Simulator.gi
+     pip install cryptography
+     pip install pycryptodome
      cd DDOS-Simulator/
      python3 main.py 
  ```
-3. Add site url or ip address with port and Threads 
+2. Add site url or ip address with port and Threads 
