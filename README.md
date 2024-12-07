@@ -27,4 +27,6 @@
      cd DDOS-Simulator/
      python3 main.py 
  ```
-2. Add site url or ip address with port and Threads 
+2. Add site url or ip address with port and Threads
+## License
+This project is licensed under Mozilla Public License Version 2.0
