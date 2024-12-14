@@ -1,1 +1,2 @@
-Crypto
+cryptography
+pycryptodome
