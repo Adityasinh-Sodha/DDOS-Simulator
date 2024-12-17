@@ -30,3 +30,5 @@
 2. Add site url or ip address with port and Threads
 ## License
 This project is licensed under Mozilla Public License Version 2.0
+## Author
+Developed by **Adityasinh**.
